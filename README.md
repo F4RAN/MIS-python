@@ -1,5 +1,5 @@
 # MIS-python
-MIS ( Maximal independent set ) Algorithm in python using netwokx and numpy
+MIS ( Maximal independent set ) Algorithm Implementation in python using netwokx and numpy
 
 An independent set of a graph is some subset of the vertices where no vertex in the subset is connected to another vertex in the subset. For example, in the graph shown below, the set of vertices (0, 2, 4) is an independent set, as is (1, 3, 5).
 A wheel graph on 7 vertices showing an independent set
