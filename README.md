@@ -5,10 +5,10 @@ An independent set of a graph is some subset of the vertices where no vertex in 
 A wheel graph on 7 vertices showing an independent set
 The Maximimum Independent Set (MIS) problem is to find an independent set with the greatest cardinality in a graph. The problem is NP-complete, but a greedy algorithm gives a good approximation.
 
-###The algorithm is:
+### The algorithm is:
 
 1. Start with the set of vertices of the graph, V and an empty set for the MIS, S
-While V≠∅:
-Find a vertex of minimum degree v∈V
-Add it to S
-Remove it and its neighbours from V
+2. While V≠∅:
+3.Find a vertex of minimum degree v∈V
+4.Add it to S
+5.Remove it and its neighbours from V
